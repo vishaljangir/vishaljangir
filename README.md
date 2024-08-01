@@ -44,6 +44,10 @@
   <img src="https://profile-counter.glitch.me/vishaljangir/count.svg?"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/vishaljangir/vishaljangir/output/snake.svg" alt="Snake animation" />
