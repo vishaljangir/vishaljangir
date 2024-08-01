@@ -1,4 +1,4 @@
-<h4 align="left">Senior Software Engineer</h4>
+<h4 align="left">Senior Software Engineer  </h4> <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 
 ###
 
@@ -39,10 +39,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vishaljangir/count.svg?"  />
-</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
