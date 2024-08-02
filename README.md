@@ -40,10 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vishaljangir/vishaljangir/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaljangir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="184" alt="languages graph"  />
 </div>
