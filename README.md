@@ -66,8 +66,6 @@ motto: "Code with purpose. Ship with confidence."
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishaljangir&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&count_private=true&include_all_commits=true" alt="stats"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljangir&theme=dracula&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=ff6b6b&currStreakLabel=8B5CF6" alt="streak"/>
 
-<img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishaljangir&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&langs_count=12" alt="top languages"/>
-
 </div>
 
 ---
